@@ -34,4 +34,16 @@ Les données pour l'OCR sont produites à l'aide de l’instance genevoise FoNDU
 
 ## Citer le dépôt
 
-à venir
+- Version `0.9`: Sonia Solfrini _Données OCR des ouvrages de M. Malingre et des textes utiles à étudier son oeuvre_, version `0.9`, Genève, université de Genève, 2023, [https://github.com/SETAFDH/HTR-SETAF-Jean-Michel](https://github.com/SETAFDH/OCR-Malingre).
+
+```bibtex
+@misc{solfrini_ocr_malingre_2023,
+  author={Solfrini, Sonia},
+  title={Données OCR des ouvrages de M. Malingre et des textes utiles à étudier son oeuvre},
+  version={0.9},
+  address={Genève},
+  publisher={université de Genève},
+  year={2023},
+  url={https://github.com/SETAFDH/OCR-Malingre},
+}
+```
