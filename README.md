@@ -4,7 +4,7 @@
 
 Ce dépôt est en cours de construction.
 
-Ce dépôt comprend les données OCR des textes suivants : les ouvrages attribués au poète réformé Thomas Mathieu Malingre et d'autres ouvrages utiles à l'étude de l'oeuvre de cet auteur. La liste des textes avec plus de détails se trouve dans le tableau CSV du dépôt. 
+Ce dépôt comprend les données OCR des textes suivants : les ouvrages attribués au poète réformé M. Malingre et d'autres ouvrages utiles à étudier son oeuvre. La liste des textes avec plus de détails se trouve dans le tableau CSV du dépôt. 
 
 
 ## Financeur
@@ -34,7 +34,7 @@ Les données pour l'OCR sont produites à l'aide de l’instance genevoise FoNDU
 
 ## Citer le dépôt
 
-- Version `0.9`: Sonia Solfrini _Données OCR des ouvrages de M. Malingre et des textes utiles à étudier son oeuvre_, version `0.9`, Genève, université de Genève, 2023, [https://github.com/SETAFDH/HTR-SETAF-Jean-Michel](https://github.com/SETAFDH/OCR-Malingre).
+- Version `0.9`: Sonia Solfrini, _Données OCR des ouvrages de M. Malingre et des textes utiles à étudier son oeuvre_, version `0.9`, Genève, université de Genève, 2023, https://github.com/SETAFDH/OCR-Malingre.
 
 ```bibtex
 @misc{solfrini_ocr_malingre_2023,
