@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>26_d1c9b_default.jpg</fileName>
+      <fileIdentifier>https://www.e-rara.ch/i3f/v20/2031651/full/full/0/default.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1350" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1351" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1352" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1353" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1354" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1355" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/><OtherTag ID="BT1356" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1357" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1358" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT498" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT499" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT500" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1080"
+          HEIGHT="1660"
+          PHYSICAL_IMG_NR="26"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1080"
+                  HEIGHT="1660">
+        
+        <TextBlock HPOS="40"
+                   VPOS="144"
+                   WIDTH="693"
+                   HEIGHT="1172"
+                   ID="eSc_textblock_84a21dac"
+                   TAGREFS="BT1353">
+          <Shape><Polygon POINTS="40 144 44 1316 733 1308 731 144"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_da3afdbe"
+                    TAGREFS="LT498"
+                    BASELINE="45 195 642 190" 
+                    HPOS="45"
+                    VPOS="149"
+                    WIDTH="597"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="639 153 625 149 612 149 598 149 584 149 570 149 556 149 542 149 528 149 515 149 501 149 487 149 473 149 459 149 445 149 432 149 418 149 404 149 390 149 376 149 362 149 348 149 335 149 321 149 307 149 293 149 279 149 265 149 252 149 238 149 228 149 225 150 224 152 56 152 49 161 45 195 45 206 641 197 642 190 639 153 639 153"/></Shape>
+	    <String CONTENT="¶ Certes celuy/ qui ha sa uolunte"
+                    HPOS="45"
+                    VPOS="149"
+                    WIDTH="597"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e8526c6b"
+                    TAGREFS="LT498"
+                    BASELINE="47 243 635 237 721 238" 
+                    HPOS="44"
+                    VPOS="188"
+                    WIDTH="676"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="45 242 45 250 720 250 720 237 718 195 674 188 672 188 671 188 670 188 670 189 664 195 663 196 44 196 45 242"/></Shape>
+	    <String CONTENT="Mise a garder/ la loy du grand seigñr:"
+                    HPOS="44"
+                    VPOS="188"
+                    WIDTH="676"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_82a62254"
+                    TAGREFS="LT498"
+                    BASELINE="45 287 623 282" 
+                    HPOS="44"
+                    VPOS="239"
+                    WIDTH="579"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="584 239 570 239 560 239 544 243 474 240 473 240 459 240 445 240 432 240 418 240 404 240 398 240 393 246 330 246 319 242 307 242 293 242 292 242 263 246 225 242 224 242 210 242 196 242 182 243 177 243 155 247 102 243 99 243 85 243 72 243 58 243 44 247 45 287 45 294 621 289 623 282 620 244 589 239 584 239"/></Shape>
+	    <String CONTENT="Et nuict ⁊ iour/ en elle ha medite"
+                    HPOS="44"
+                    VPOS="239"
+                    WIDTH="579"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5a2970b2"
+                    TAGREFS="LT498"
+                    BASELINE="45 334 725 327" 
+                    HPOS="44"
+                    VPOS="278"
+                    WIDTH="681"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="612 283 610 283 585 290 454 290 436 284 432 284 418 284 405 284 404 286 396 290 389 286 386 284 376 284 369 284 348 287 314 291 301 289 290 286 279 286 265 286 252 286 238 286 224 286 210 286 196 286 182 287 168 287 155 287 141 287 127 287 113 287 99 287 85 287 72 287 58 287 44 293 45 334 45 347 725 336 725 327 722 278 639 278 638 278 627 279 612 282 612 283"/></Shape>
+	    <String CONTENT="Est bienheureux/ car il a pour docteur"
+                    HPOS="44"
+                    VPOS="278"
+                    WIDTH="681"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c4400441"
+                    TAGREFS="LT498"
+                    BASELINE="47 379 708 374" 
+                    HPOS="45"
+                    VPOS="332"
+                    WIDTH="663"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="308 333 294 333 281 333 267 333 253 333 239 333 225 333 211 333 198 333 184 333 170 334 156 334 142 334 128 334 114 334 101 334 87 334 73 334 59 334 45 338 47 379 47 388 707 381 708 374 706 333 317 332 308 333"/></Shape>
+	    <String CONTENT="Lesperit de dieu/ qui le faict seruateur"
+                    HPOS="45"
+                    VPOS="332"
+                    WIDTH="663"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ddc76445"
+                    TAGREFS="LT498"
+                    BASELINE="47 427 636 420" 
+                    HPOS="45"
+                    VPOS="379"
+                    WIDTH="591"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="239 379 225 379 211 379 198 379 184 379 170 379 156 379 142 379 128 379 114 379 101 379 87 379 73 379 59 379 45 379 47 427 47 437 635 430 636 420 634 379 253 379 239 379"/></Shape>
+	    <String CONTENT="De ceste loy/ a la chair impossible"
+                    HPOS="45"
+                    VPOS="379"
+                    WIDTH="591"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ebed5281"
+                    TAGREFS="LT498"
+                    BASELINE="47 470 728 466" 
+                    HPOS="45"
+                    VPOS="419"
+                    WIDTH="683"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="724 431 717 420 714 419 713 419 711 419 710 419 524 427 497 428 416 428 414 426 409 423 405 423 391 424 378 424 371 426 362 427 348 426 335 424 322 424 308 424 294 424 281 426 270 426 258 428 152 427 142 427 128 427 114 427 101 427 87 427 73 427 59 427 45 427 47 470 47 486 80 480 227 485 261 485 263 485 264 485 265 485 267 484 276 478 726 478 728 466 726 435 724 431"/></Shape>
+	    <String CONTENT="Qui au croyãt/ ꝑ Christ faicte est possi¬"
+                    HPOS="45"
+                    VPOS="419"
+                    WIDTH="683"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_acf4e730"
+                    TAGREFS="LT498"
+                    BASELINE="646 515 706 515 720 521" 
+                    HPOS="643"
+                    VPOS="475"
+                    WIDTH="77"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="643 518 717 521 720 520 720 475 645 475 645 514"/></Shape>
+	    <String CONTENT="(ble"
+                    HPOS="643"
+                    VPOS="475"
+                    WIDTH="77"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_49765c70"
+                    TAGREFS="LT498"
+                    BASELINE="48 513 582 515" 
+                    HPOS="45"
+                    VPOS="471"
+                    WIDTH="536"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="47 511 45 520 65 527 66 527 67 527 580 524 581 514 578 471 47 473 47 511"/></Shape>
+	    <String CONTENT="¶ Celuy sera/ cõe larbre plante"
+                    HPOS="45"
+                    VPOS="471"
+                    WIDTH="536"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8423655c"
+                    TAGREFS="LT498"
+                    BASELINE="54 567 119 561 660 561 720 568" 
+                    HPOS="52"
+                    VPOS="514"
+                    WIDTH="668"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="717 520 703 514 54 515 54 565 52 572 91 567 110 574 112 574 113 575 186 575 186 574 188 574 189 574 189 572 196 567 216 574 217 574 218 574 275 567 389 574 390 574 391 575 447 575 447 574 448 574 450 574 458 567 541 574 542 574 544 574 545 574 546 574 553 567 577 574 578 574 580 574 581 574 646 567 661 574 663 574 664 574 666 574 682 567 717 574 720 567 717 520 717 520"/></Shape>
+	    <String CONTENT="Iouxte le coͬs/ des argẽtins ruisseaux"
+                    HPOS="52"
+                    VPOS="514"
+                    WIDTH="668"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_04becb76"
+                    TAGREFS="LT498"
+                    BASELINE="48 610 700 608 723 609" 
+                    HPOS="45"
+                    VPOS="561"
+                    WIDTH="677"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="653 561 652 561 627 568 468 561 466 561 422 568 401 561 400 561 398 561 397 561 396 561 387 569 319 569 312 563 312 561 311 561 310 561 308 561 239 568 199 561 198 561 146 568 88 561 87 563 73 564 59 564 45 569 47 608 47 615 720 618 722 608 721 569 654 561 653 561"/></Shape>
+	    <String CONTENT="Qui en son temps/ fera fruict a plante"
+                    HPOS="45"
+                    VPOS="561"
+                    WIDTH="677"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d8e5b9d9"
+                    TAGREFS="LT498"
+                    BASELINE="49 659 236 652 729 650" 
+                    HPOS="48"
+                    VPOS="610"
+                    WIDTH="681"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="713 610 699 610 685 610 671 610 657 610 643 610 630 610 616 610 602 610 588 610 574 610 560 610 546 610 533 610 519 610 505 610 498 610 48 614 49 659 49 668 167 664 173 666 178 670 180 670 181 670 182 670 184 670 185 670 191 666 196 662 243 662 271 665 315 669 317 669 318 669 332 664 339 661 382 662 474 668 476 668 477 668 491 661 494 659 495 661 501 666 502 666 504 666 505 668 621 668 621 666 623 666 639 658 641 658 648 658 711 665 713 665 714 665 729 657 729 650 725 610 713 610"/></Shape>
+	    <String CONTENT="Ia ses fueilles/ ne aussi ses uͬs ramaux"
+                    HPOS="48"
+                    VPOS="610"
+                    WIDTH="681"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_94fc6da2"
+                    TAGREFS="LT498"
+                    BASELINE="48 699 726 699" 
+                    HPOS="48"
+                    VPOS="654"
+                    WIDTH="678"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="715 662 497 662 495 661 486 654 484 654 483 654 481 654 480 654 466 661 463 661 407 654 405 654 404 654 378 661 376 661 373 661 351 654 350 654 348 654 347 654 322 661 315 655 315 654 314 654 312 654 311 654 310 654 294 661 293 661 288 661 234 654 232 654 159 655 159 657 157 657 48 659 48 699 48 715 153 708 171 715 173 715 174 715 175 715 177 715 188 708 296 708 304 715 306 715 307 715 308 715 310 715 339 708 420 715 422 715 663 708 725 715 726 699 724 684 715 662"/></Shape>
+	    <String CONTENT="Ne tõberõt/ ne par uentz/ ne par eaux:"
+                    HPOS="48"
+                    VPOS="654"
+                    WIDTH="678"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e00e6e4b"
+                    TAGREFS="LT498"
+                    BASELINE="48 747 688 742" 
+                    HPOS="47"
+                    VPOS="701"
+                    WIDTH="641"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="642 701 628 701 614 701 600 701 587 701 574 701 548 704 544 701 531 701 524 701 517 705 401 705 389 701 379 701 365 701 361 701 336 705 299 701 296 701 282 701 268 701 254 701 221 706 142 701 130 701 116 701 113 701 91 706 72 701 60 701 47 706 48 747 51 762 65 753 145 760 146 760 148 760 149 760 159 753 293 759 294 759 296 759 297 759 308 752 685 758 688 742 685 705 650 701 642 701"/></Shape>
+	    <String CONTENT="Car le tout tient/ a larbre ⁊ sa racine"
+                    HPOS="47"
+                    VPOS="701"
+                    WIDTH="641"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1f69b1f8"
+                    TAGREFS="LT498"
+                    BASELINE="48 794 660 794" 
+                    HPOS="48"
+                    VPOS="744"
+                    WIDTH="612"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="596 744 595 744 559 753 429 753 396 745 394 745 380 745 353 752 343 745 339 745 325 745 267 752 258 745 256 747 242 747 228 747 214 747 206 747 135 751 130 747 117 747 103 747 90 747 76 747 63 747 48 752 48 794 48 803 229 807 231 807 268 802 281 800 283 802 292 807 293 807 294 807 296 809 376 809 376 807 497 800 505 807 506 807 508 807 509 809 584 809 584 807 585 807 614 800 649 807 650 807 652 807 653 807 660 800 660 794 660 753 598 744 596 744"/></Shape>
+	    <String CONTENT="Cest a Iesus/ ⁊ sa saincte doctrine."
+                    HPOS="48"
+                    VPOS="744"
+                    WIDTH="612"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_41105923"
+                    TAGREFS="LT498"
+                    BASELINE="49 841 722 835" 
+                    HPOS="48"
+                    VPOS="792"
+                    WIDTH="674"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="715 792 657 794 657 795 643 795 630 795 616 795 614 795 510 798 506 795 505 795 491 795 477 795 463 795 450 795 436 795 422 795 408 795 394 795 380 795 378 795 376 798 375 800 300 800 294 799 271 795 270 795 256 795 242 795 238 795 234 799 188 795 186 795 173 795 164 795 148 800 141 795 131 795 117 795 103 795 90 795 76 795 62 795 60 795 48 800 49 841 49 852 668 845 720 850 722 835 718 794 715 792"/></Shape>
+	    <String CONTENT="¶ Ainsi ne fõt/ les meschãtz reprouuez"
+                    HPOS="48"
+                    VPOS="792"
+                    WIDTH="674"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_985b8659"
+                    TAGREFS="LT498"
+                    BASELINE="49 885 713 885" 
+                    HPOS="49"
+                    VPOS="838"
+                    WIDTH="664"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="430 838 429 838 427 838 402 841 375 845 333 842 294 839 285 839 271 839 267 839 253 843 246 845 243 843 236 839 229 839 221 839 210 843 206 845 202 843 193 841 188 841 174 841 171 841 159 845 155 845 146 845 106 841 105 841 91 841 77 841 66 841 49 845 49 885 49 890 711 892 713 885 711 838 443 845 436 841 432 838 430 838"/></Shape>
+	    <String CONTENT="Mais ilz serõt/ cõme la pouldre au uẽ"
+                    HPOS="49"
+                    VPOS="838"
+                    WIDTH="664"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fe41a6bf"
+                    TAGREFS="LT498"
+                    BASELINE="48 933 706 929" 
+                    HPOS="47"
+                    VPOS="885"
+                    WIDTH="659"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="684 886 670 886 656 886 642 886 628 886 624 886 614 888 612 888 603 888 574 886 573 886 559 886 545 886 531 886 517 886 504 886 490 886 481 886 480 888 477 889 469 886 462 886 448 886 434 886 432 886 423 889 326 886 324 886 310 886 296 886 282 886 268 886 254 886 240 886 235 886 231 890 92 886 88 886 74 886 60 886 59 885 47 885 48 933 48 942 174 940 182 943 193 947 195 947 196 947 198 947 199 947 203 943 207 940 220 943 240 948 242 948 243 948 245 948 246 948 246 947 250 943 254 940 267 943 282 947 283 947 285 947 306 944 336 939 353 944 362 947 364 947 365 948 447 948 447 947 448 947 450 947 452 944 465 937 537 937 566 946 567 946 569 946 570 947 653 947 653 946 654 946 656 946 656 944 663 939 703 946 706 929 703 889 689 886 684 886"/></Shape>
+	    <String CONTENT="Deuãt la face/ au seigñr dieu soufflez"
+                    HPOS="47"
+                    VPOS="885"
+                    WIDTH="659"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0f657b1e"
+                    TAGREFS="LT498"
+                    BASELINE="48 978 670 975" 
+                    HPOS="47"
+                    VPOS="930"
+                    WIDTH="623"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="523 930 522 930 520 930 519 930 505 939 451 932 450 932 448 932 447 932 447 933 440 940 368 940 337 932 337 932 325 932 312 940 265 932 260 932 238 940 217 933 213 933 204 933 192 939 186 933 185 933 171 933 157 933 144 933 130 933 116 933 102 933 88 933 74 933 60 933 55 933 47 939 48 978 48 989 668 982 670 975 667 940 595 932 594 932 556 939 524 930 523 930"/></Shape>
+	    <String CONTENT="Cest ascauoir/ menez a damnement"
+                    HPOS="47"
+                    VPOS="930"
+                    WIDTH="623"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3de3878e"
+                    TAGREFS="LT498"
+                    BASELINE="48 1025 736 1020" 
+                    HPOS="47"
+                    VPOS="976"
+                    WIDTH="689"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="726 983 678 976 677 976 638 983 620 976 614 976 600 976 599 976 574 982 552 976 545 976 531 976 526 976 502 982 448 976 448 976 434 976 427 976 400 984 332 978 324 978 315 978 307 984 275 979 274 979 272 979 271 979 263 986 225 978 213 978 202 978 119 984 70 978 60 978 56 978 47 986 48 1025 48 1034 736 1034 736 1020 735 1016 726 983"/></Shape>
+	    <String CONTENT="Sans faire tort/ a nul: mais iustement"
+                    HPOS="47"
+                    VPOS="976"
+                    WIDTH="689"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3faa0d80"
+                    TAGREFS="LT498"
+                    BASELINE="48 1069 692 1067" 
+                    HPOS="47"
+                    VPOS="1026"
+                    WIDTH="645"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="48 1069 48 1079 692 1077 692 1067 689 1027 47 1026 48 1069"/></Shape>
+	    <String CONTENT="Car le seigneur/ peult denier sa grace"
+                    HPOS="47"
+                    VPOS="1026"
+                    WIDTH="645"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1e9eb49e"
+                    TAGREFS="LT498"
+                    BASELINE="49 1113 711 1116" 
+                    HPOS="48"
+                    VPOS="1072"
+                    WIDTH="663"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="49 1113 48 1127 92 1123 105 1128 108 1130 109 1130 110 1130 112 1130 113 1130 114 1128 121 1123 181 1128 207 1130 209 1130 210 1130 211 1130 214 1127 221 1123 250 1127 268 1130 270 1130 271 1130 272 1130 275 1127 282 1123 292 1127 300 1130 301 1130 303 1130 318 1127 336 1123 340 1127 344 1130 346 1130 347 1130 348 1130 404 1126 436 1124 462 1126 541 1131 542 1131 544 1131 566 1124 569 1124 570 1124 578 1131 580 1131 581 1131 582 1131 584 1131 585 1131 585 1130 591 1124 592 1124 710 1124 711 1116 710 1073 49 1072 49 1113"/></Shape>
+	    <String CONTENT="A qui luy plaist/ ⁊ demonstrer sa face."
+                    HPOS="48"
+                    VPOS="1072"
+                    WIDTH="663"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1061f5aa"
+                    TAGREFS="LT498"
+                    BASELINE="51 1159 731 1162" 
+                    HPOS="48"
+                    VPOS="1119"
+                    WIDTH="681"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="49 1157 48 1166 726 1175 729 1162 728 1119 49 1119 49 1157"/></Shape>
+	    <String CONTENT="¶ Les reprouuez/ point ne consisteront"
+                    HPOS="48"
+                    VPOS="1119"
+                    WIDTH="681"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3e254906"
+                    TAGREFS="LT498"
+                    BASELINE="49 1204 729 1206" 
+                    HPOS="47"
+                    VPOS="1167"
+                    WIDTH="681"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="48 1203 47 1211 725 1218 728 1204 725 1167 48 1167 48 1203"/></Shape>
+	    <String CONTENT="Auec les bons/ au conseil des croyantz"
+                    HPOS="47"
+                    VPOS="1167"
+                    WIDTH="681"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_00838d02"
+                    TAGREFS="LT498"
+                    BASELINE="51 1253 732 1256" 
+                    HPOS="49"
+                    VPOS="1211"
+                    WIDTH="683"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="51 1253 49 1258 95 1267 96 1267 300 1262 389 1261 396 1264 401 1268 402 1268 404 1268 405 1269 731 1269 732 1256 731 1214 51 1211 51 1253"/></Shape>
+	    <String CONTENT="Mais cõme gens meschãtz: bãnis serõt"
+                    HPOS="49"
+                    VPOS="1211"
+                    WIDTH="683"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_12d40665"
+                    TAGREFS="LT498"
+                    BASELINE="51 1301 631 1301" 
+                    HPOS="51"
+                    VPOS="1254"
+                    WIDTH="580"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="618 1256 605 1256 591 1256 577 1256 563 1256 549 1256 535 1256 522 1256 508 1256 494 1256 480 1256 466 1256 452 1256 438 1256 425 1256 411 1256 397 1256 389 1254 51 1254 51 1301 51 1321 102 1326 103 1326 105 1326 106 1326 113 1321 120 1315 213 1315 238 1319 272 1325 274 1325 275 1325 293 1318 303 1315 308 1318 315 1323 317 1323 318 1323 319 1323 372 1318 384 1316 386 1318 402 1326 404 1326 405 1328 551 1328 551 1326 552 1326 553 1326 569 1315 570 1315 631 1315 631 1301 630 1256 618 1256"/></Shape>
+	    <String CONTENT="Et mis au ranc/ des inobeissantz"
+                    HPOS="51"
+                    VPOS="1254"
+                    WIDTH="580"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="731"
+                   VPOS="150"
+                   WIDTH="135"
+                   HEIGHT="132"
+                   ID="eSc_textblock_e181d9c9"
+                   TAGREFS="BT1354">
+          <Shape><Polygon POINTS="866 282 866 150 731 150 731 282"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_4e281515"
+                    TAGREFS="LT498"
+                    BASELINE="734 189 861 185" 
+                    HPOS="731"
+                    VPOS="135"
+                    WIDTH="128"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="733 188 733 196 859 195 859 183 857 143 731 135 733 188"/></Shape>
+	    <String CONTENT="Sed in"
+                    HPOS="731"
+                    VPOS="135"
+                    WIDTH="128"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e391442a"
+                    TAGREFS="LT498"
+                    BASELINE="733 233 864 230" 
+                    HPOS="731"
+                    VPOS="189"
+                    WIDTH="133"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="732 232 732 239 776 243 778 243 779 243 789 240 812 235 861 242 864 229 859 189 731 192 732 232"/></Shape>
+	    <String CONTENT="lege dñi."
+                    HPOS="731"
+                    VPOS="189"
+                    WIDTH="133"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_285665c7"
+                    TAGREFS="LT498"
+                    BASELINE="733 273 858 272" 
+                    HPOS="731"
+                    VPOS="231"
+                    WIDTH="126"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="772 231 758 232 744 232 735 232 731 235 732 272 733 290 767 282 796 286 822 289 823 289 825 289 857 280 857 271 854 236 782 231 772 231"/></Shape>
+	    <String CONTENT="Hier̃.17."
+                    HPOS="731"
+                    VPOS="231"
+                    WIDTH="126"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="737"
+                   VPOS="492"
+                   WIDTH="140"
+                   HEIGHT="139"
+                   ID="eSc_textblock_1ffc6319"
+                   TAGREFS="BT1354">
+          <Shape><Polygon POINTS="877 626 866 492 737 492 739 631"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_4445900f"
+                    TAGREFS="LT498"
+                    BASELINE="735 526 742 529 857 529" 
+                    HPOS="732"
+                    VPOS="480"
+                    WIDTH="123"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="852 539 855 528 852 480 792 491 735 480 733 525 732 536"/></Shape>
+	    <String CONTENT="Et erit"
+                    HPOS="732"
+                    VPOS="480"
+                    WIDTH="123"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_844efe59"
+                    TAGREFS="LT498"
+                    BASELINE="737 570 746 571 868 571" 
+                    HPOS="736"
+                    VPOS="532"
+                    WIDTH="130"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="736 569 736 586 866 581 866 569 866 532 736 532 736 569"/></Shape>
+	    <String CONTENT="tanq̃ li¬"
+                    HPOS="736"
+                    VPOS="532"
+                    WIDTH="130"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d485b190"
+                    TAGREFS="LT498"
+                    BASELINE="737 614 841 616" 
+                    HPOS="735"
+                    VPOS="575"
+                    WIDTH="105"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="736 612 735 661 785 662 786 662 787 662 789 662 803 652 808 648 839 647 840 615 840 582 736 575 736 612"/></Shape>
+	    <String CONTENT="gnun."
+                    HPOS="735"
+                    VPOS="575"
+                    WIDTH="105"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="737"
+                   VPOS="816"
+                   WIDTH="144"
+                   HEIGHT="94"
+                   ID="eSc_textblock_aa7af341"
+                   TAGREFS="BT1354">
+          <Shape><Polygon POINTS="739 820 737 910 881 910 881 816"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_cfe90883"
+                    TAGREFS="LT498"
+                    BASELINE="739 857 873 856" 
+                    HPOS="736"
+                    VPOS="809"
+                    WIDTH="136"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="738 856 738 868 796 864 869 877 872 854 869 812 736 809 738 856"/></Shape>
+	    <String CONTENT="Non sic"
+                    HPOS="736"
+                    VPOS="809"
+                    WIDTH="136"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_82d90ae0"
+                    TAGREFS="LT498"
+                    BASELINE="732 895 833 899" 
+                    HPOS="731"
+                    VPOS="860"
+                    WIDTH="102"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="732 895 731 903 830 908 833 899 833 860 732 860 732 895"/></Shape>
+	    <String CONTENT="impii."
+                    HPOS="731"
+                    VPOS="860"
+                    WIDTH="102"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="739"
+                   VPOS="1127"
+                   WIDTH="148"
+                   HEIGHT="91"
+                   ID="eSc_textblock_7fdb2b15"
+                   TAGREFS="BT1354">
+          <Shape><Polygon POINTS="887 1218 887 1127 739 1127 739 1218"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ff5f716f"
+                    TAGREFS="LT498"
+                    BASELINE="739 1162 882 1163" 
+                    HPOS="738"
+                    VPOS="1101"
+                    WIDTH="144"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="738 1162 738 1177 882 1174 882 1162 882 1114 794 1101 793 1101 792 1101 738 1116 738 1162"/></Shape>
+	    <String CONTENT="Non re"
+                    HPOS="738"
+                    VPOS="1101"
+                    WIDTH="144"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_232174e6"
+                    TAGREFS="LT498"
+                    BASELINE="739 1207 877 1207" 
+                    HPOS="738"
+                    VPOS="1164"
+                    WIDTH="138"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="738 1206 739 1232 761 1225 875 1232 876 1206 875 1164 738 1166 738 1206"/></Shape>
+	    <String CONTENT="surgent."
+                    HPOS="738"
+                    VPOS="1164"
+                    WIDTH="138"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="562"
+                   VPOS="1306"
+                   WIDTH="67"
+                   HEIGHT="58"
+                   ID="eSc_textblock_2d718d93"
+                   TAGREFS="BT1356">
+          <Shape><Polygon POINTS="564 1308 562 1364 627 1364 629 1306"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_b2f4a839"
+                    TAGREFS="LT498"
+                    BASELINE="568 1354 620 1356" 
+                    HPOS="566"
+                    VPOS="1301"
+                    WIDTH="54"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="596 1301 582 1301 573 1301 567 1301 567 1352 566 1365 616 1368 618 1355 620 1307 605 1301 596 1301"/></Shape>
+	    <String CONTENT="B"
+                    HPOS="566"
+                    VPOS="1301"
+                    WIDTH="54"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
