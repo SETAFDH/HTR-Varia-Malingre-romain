@@ -1,5 +1,7 @@
 # OCR-Malingre
 
+![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
+
 Ce dépôt est en cours de construction.
 
 Ce dépôt comprend les données OCR des textes suivants : les ouvrages attribués au poète réformé Thomas Mathieu Malingre et d'autres ouvrages utiles à l'étude de l'oeuvre de cet auteur. La liste des textes avec plus de détails se trouve dans le tableau CSV du dépôt. 

@@ -1,0 +1,49 @@
+authors:
+- name: Sonia
+  surname: Solfrini
+  orcid: 0009-0009-7367-048X
+  roles:
+  - transcriber
+  - project-manager
+  - quality-control
+- name: Simon
+  surname: Gabay
+  orcid: 0000-0001-9094-4475
+  roles:
+  - support
+description: Data for Malingre research project.
+format: Alto-XML
+hands:
+  count: '1'
+  precision: exact
+language:
+- fra
+license:
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+production-software: eScriptorium + Kraken
+project-name: Malingre project
+project-website: https://www.unige.ch/setaf/equipe/sonia-solfrini
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
+script:
+- iso: Latn
+script-type: only-typed
+time:
+  notAfter: '1600'
+  notBefore: '1500'
+title: OCR-Malingre
+transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
+  Our transcription guidelines follow a graphematic approach, without regularisation.
+  We keep the original punctuation and abbreviations. A detailed presentation (about
+  30 pages) of the rules we established for the transcriptions will be available on
+  SETAF project's website.
+url: https://github.com/SETAFDH/OCR-Malingre
+volume:
+- count: 648066
+  metric: characters
+- count: 895
+  metric: files
+- count: 24703
+  metric: lines
+- count: 2817
+  metric: regions
