@@ -14,82 +14,96 @@ authors:
 characters:
   members:
   - e
-  - s
   - u
+  - s
   - a
   - r
+  - n
   - i
   - t
-  - n
   - o
   - l
   - c
   - d
-  - p
-  - /
   - m
+  - p
   - .
+  - /
   - y
-  - h
   - f
+  - h
   - g
   - b
   - z
   - q
-  - ':'
   - ̃
   - C
   - E
+  - ':'
+  - ','
+  - D
   - I
+  - ſ
   - L
   - P
-  - ⁊
-  - D
   - x
+  - ⁊
   - A
-  - Q
   - S
+  - Q
   - M
-  - U
+  - ¶
   - '1'
-  - O
   - N
-  - B
+  - U
+  - T
+  - O
+  - '2'
   - '?'
   - H
-  - ¶
-  - T
-  - '2'
-  - G
+  - '&'
+  - B
   - R
-  - F
-  - '3'
-  - ◊
-  - '5'
-  -  
-  - ','
-  - '4'
-  - ͬ
-  - '7'
-  - ꝰ
+  - ’
   - ¬
-  - (
-  - '6'
-  - '0'
-  - )
-  - ł
-  - ꝑ
-  - V
   - v
-  - ͥ
+  - ́
+  - '3'
+  - F
+  - G
+  - '4'
+  - '5'
+  - ◊
+  - ͬ
+  - ꝰ
+  - '6'
+  - ̀
+  - '0'
+  - V
+  - '7'
+  -  
+  - (
   - '9'
   - '8'
+  - "'"
+  - )
+  - ͥ
+  - ꝑ
+  - ̈
+  - ꝓ
+  - ł
+  - X
+  - ð
+  - Y
+  - ꝯ
   - ;
   - J
-  - Y
+  - Z
+  - œ
+  - k
+  - ꝗ
   - ̇
-  - ꝓ
-  - ̈
+  - j
   mode: NFD
 description: Data for Malingre research project.
 format: Alto-XML
@@ -119,11 +133,11 @@ transcription-guidelines: Our data follow SegmOnto segmentation standards (https
   SETAF project's website.
 url: https://github.com/SETAFDH/OCR-Malingre
 volume:
-- count: 69120
+- count: 261475
   metric: characters
-- count: 112
+- count: 412
   metric: files
-- count: 3133
+- count: 11694
   metric: lines
-- count: 242
+- count: 1200
   metric: regions
