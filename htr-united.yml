@@ -1,16 +1,84 @@
 authors:
 - name: Sonia
-  surname: Solfrini
   orcid: 0009-0009-7367-048X
   roles:
   - transcriber
   - project-manager
   - quality-control
+  surname: Solfrini
 - name: Simon
-  surname: Gabay
   orcid: 0000-0001-9094-4475
   roles:
   - support
+  surname: Gabay
+characters:
+  members:
+  - e
+  - u
+  - s
+  - a
+  - r
+  - i
+  - n
+  - t
+  - o
+  - l
+  - c
+  - d
+  - /
+  - p
+  - m
+  - .
+  - f
+  - y
+  - h
+  - g
+  - b
+  - z
+  - q
+  - ':'
+  - C
+  - E
+  - L
+  - I
+  - ⁊
+  - ̃
+  - P
+  - D
+  - x
+  - Q
+  - S
+  - A
+  - M
+  - U
+  - B
+  - '?'
+  - N
+  - H
+  - O
+  - T
+  - G
+  - F
+  - R
+  - ','
+  - ͬ
+  - (
+  -  
+  - )
+  - ꝰ
+  - ¬
+  - ¶
+  - V
+  - v
+  - ͥ
+  - ꝑ
+  - '3'
+  - ;
+  - J
+  - Y
+  - '1'
+  - '5'
+  mode: NFD
 description: Data for Malingre research project.
 format: Alto-XML
 hands:
@@ -39,11 +107,11 @@ transcription-guidelines: Our data follow SegmOnto segmentation standards (https
   SETAF project's website.
 url: https://github.com/SETAFDH/OCR-Malingre
 volume:
-- count: 648066
+- count: 57679
   metric: characters
-- count: 895
+- count: 96
   metric: files
-- count: 24703
+- count: 2531
   metric: lines
-- count: 2817
+- count: 137
   metric: regions
