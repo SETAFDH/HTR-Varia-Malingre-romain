@@ -18,73 +18,12 @@
   <Layout>
     <Page WIDTH="1080"
           HEIGHT="1660"
-          PHYSICAL_IMG_NR="41"
+          PHYSICAL_IMG_NR="31"
           ID="eSc_dummypage_">
       <PrintSpace HPOS="0"
                   VPOS="0"
                   WIDTH="1080"
                   HEIGHT="1660">
-        
-        <TextBlock HPOS="198"
-                   VPOS="262"
-                   WIDTH="148"
-                   HEIGHT="140"
-                   ID="eSc_textblock_cf6f334e"
-                   TAGREFS="BT1354">
-          <Shape><Polygon POINTS="198 262 198 402 346 402 346 262"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_77f757f2"
-                    TAGREFS="LT498"
-                    BASELINE="206 307 346 304" 
-                    HPOS="204"
-                    VPOS="261"
-                    WIDTH="142"
-                    HEIGHT="57">
-            <Shape><Polygon POINTS="206 318 206 307 204 269 218 268 232 266 246 266 274 264 288 262 293 261 345 265 346 315"/></Shape>
-	    <String CONTENT="Dieu re"
-                    HPOS="204"
-                    VPOS="261"
-                    WIDTH="142"
-                    HEIGHT="57"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_b22622d3"
-                    TAGREFS="LT498"
-                    BASELINE="207 347 346 346" 
-                    HPOS="206"
-                    VPOS="304"
-                    WIDTH="140"
-                    HEIGHT="57">
-            <Shape><Polygon POINTS="207 361 207 347 206 307 275 307 289 305 312 305 325 307 340 308 343 307 344 304 345 304 346 352"/></Shape>
-	    <String CONTENT="spõd au"
-                    HPOS="206"
-                    VPOS="304"
-                    WIDTH="140"
-                    HEIGHT="57"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_58b7dd41"
-                    TAGREFS="LT498"
-                    BASELINE="207 388 336 387 339 387" 
-                    HPOS="206"
-                    VPOS="347"
-                    WIDTH="138"
-                    HEIGHT="50">
-            <Shape><Polygon POINTS="207 397 207 388 206 351 290 347 292 347 330 351 344 352 338 397"/></Shape>
-	    <String CONTENT="pecheur."
-                    HPOS="206"
-                    VPOS="347"
-                    WIDTH="138"
-                    HEIGHT="50"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
         <TextBlock HPOS="346"
                    VPOS="159"
@@ -538,33 +477,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="198"
-                   VPOS="442"
-                   WIDTH="148"
-                   HEIGHT="63"
-                   ID="eSc_textblock_a3a49633"
-                   TAGREFS="BT1354">
-          <Shape><Polygon POINTS="198 442 198 505 346 505 346 442"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_e4965689"
-                    TAGREFS="LT498"
-                    BASELINE="211 488 348 485" 
-                    HPOS="210"
-                    VPOS="439"
-                    WIDTH="138"
-                    HEIGHT="71">
-            <Shape><Polygon POINTS="346 507 344 507 344 509 342 509 238 510 235 510 211 499 211 488 210 448 275 439 276 439 319 446 328 448 335 446 347 442 348 504"/></Shape>
-	    <String CONTENT="1.thess.3."
-                    HPOS="210"
-                    VPOS="439"
-                    WIDTH="138"
-                    HEIGHT="71"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
         <TextBlock HPOS="348"
                    VPOS="820"
                    WIDTH="90"
@@ -592,6 +504,94 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="198"
+                   VPOS="262"
+                   WIDTH="148"
+                   HEIGHT="140"
+                   ID="eSc_textblock_cf6f334e"
+                   TAGREFS="BT1354">
+          <Shape><Polygon POINTS="198 262 198 402 346 402 346 262"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_77f757f2"
+                    TAGREFS="LT498"
+                    BASELINE="206 307 346 304" 
+                    HPOS="204"
+                    VPOS="261"
+                    WIDTH="142"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="206 318 206 307 204 269 218 268 232 266 246 266 274 264 288 262 293 261 345 265 346 315"/></Shape>
+	    <String CONTENT="Dieu re"
+                    HPOS="204"
+                    VPOS="261"
+                    WIDTH="142"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b22622d3"
+                    TAGREFS="LT498"
+                    BASELINE="207 347 346 346" 
+                    HPOS="206"
+                    VPOS="304"
+                    WIDTH="140"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="207 361 207 347 206 307 275 307 289 305 312 305 325 307 340 308 343 307 344 304 345 304 346 352"/></Shape>
+	    <String CONTENT="spõd au"
+                    HPOS="206"
+                    VPOS="304"
+                    WIDTH="140"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_58b7dd41"
+                    TAGREFS="LT498"
+                    BASELINE="207 388 336 387 339 387" 
+                    HPOS="206"
+                    VPOS="347"
+                    WIDTH="138"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="207 397 207 388 206 351 290 347 292 347 330 351 344 352 338 397"/></Shape>
+	    <String CONTENT="pecheur."
+                    HPOS="206"
+                    VPOS="347"
+                    WIDTH="138"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="198"
+                   VPOS="442"
+                   WIDTH="148"
+                   HEIGHT="63"
+                   ID="eSc_textblock_a3a49633"
+                   TAGREFS="BT1354">
+          <Shape><Polygon POINTS="198 442 198 505 346 505 346 442"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e4965689"
+                    TAGREFS="LT498"
+                    BASELINE="211 488 348 485" 
+                    HPOS="210"
+                    VPOS="439"
+                    WIDTH="138"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="346 507 344 507 344 509 342 509 238 510 235 510 211 499 211 488 210 448 275 439 276 439 319 446 328 448 335 446 347 442 348 504"/></Shape>
+	    <String CONTENT="1.thess.3."
+                    HPOS="210"
+                    VPOS="439"
+                    WIDTH="138"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
         <TextBlock HPOS="206"
                    VPOS="992"
                    WIDTH="144"
@@ -609,7 +609,7 @@
                     WIDTH="132"
                     HEIGHT="53">
             <Shape><Polygon POINTS="216 1044 216 1034 222 1001 228 997 339 997 339 994 348 994 348 1047"/></Shape>
-	    <String CONTENT="Nũc di¬"
+	    <String CONTENT="Nũc di-"
                     HPOS="216"
                     VPOS="994"
                     WIDTH="132"

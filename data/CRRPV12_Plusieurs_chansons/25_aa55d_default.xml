@@ -18,7 +18,7 @@
   <Layout>
     <Page WIDTH="1080"
           HEIGHT="1660"
-          PHYSICAL_IMG_NR="25"
+          PHYSICAL_IMG_NR="15"
           ID="eSc_dummypage_">
       <PrintSpace HPOS="0"
                   VPOS="0"
@@ -42,7 +42,7 @@
                     WIDTH="347"
                     HEIGHT="58">
             <Shape><Polygon POINTS="677 146 663 136 652 132 645 131 635 131 621 131 607 131 594 131 585 131 541 134 533 134 531 134 524 130 524 130 510 130 497 128 483 128 469 128 455 128 441 128 437 127 350 130 344 134 344 172 343 185 689 185 690 178 678 146 677 146"/></Shape>
-	    <String CONTENT="Comlc le maistre/"
+	    <String CONTENT="Comme le maistre/"
                     HPOS="343"
                     VPOS="127"
                     WIDTH="347"
@@ -599,7 +599,7 @@
                     WIDTH="138"
                     HEIGHT="47">
             <Shape><Polygon POINTS="199 812 198 820 333 823 336 814 336 777 199 776 199 812"/></Shape>
-	    <String CONTENT="⁊ .q.1.ad¬"
+	    <String CONTENT="⁊ .q.1.ad-"
                     HPOS="198"
                     VPOS="776"
                     WIDTH="138"
