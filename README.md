@@ -26,6 +26,8 @@ Les transcriptions sont [CC-BY](https://creativecommons.org/licenses/by/4.0), et
 
 Les données se trouvent au chemin ‘./data//.xml‘. Elles sont au format ALTO et suivent les normes de segmentation SegmOnto (https://segmonto.github.io). Toutes les données sont produites à l'aide de l'interface eScriptorium et sont cataloguées sur HTR-United (https://htr-united.github.io).
 
+Guide de transcription pour les imprimés français du XVIe siècle en caractères gothiques : https://hal.science/hal-04281804
+
 
 ## Infrastructure
 
