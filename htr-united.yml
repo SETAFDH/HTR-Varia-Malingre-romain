@@ -106,7 +106,7 @@ characters:
   - ̇
   - j
   mode: NFD
-description: Data for Malingre research project.
+description: Data for Malingre research sub-project.
 format: Alto-XML
 hands:
   count: '1'
@@ -117,8 +117,8 @@ license:
 - name: CC-BY 4.0
   url: https://creativecommons.org/licenses/by/4.0/
 production-software: eScriptorium + Kraken
-project-name: Malingre project
-project-website: https://www.unige.ch/setaf/equipe/sonia-solfrini
+project-name: SETAF project
+project-website: https://www.unige.ch/setaf
 schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 script:
 - iso: Latn
@@ -126,13 +126,9 @@ script-type: only-typed
 time:
   notAfter: '1600'
   notBefore: '1500'
-title: OCR-Malingre
-transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
-  Our transcription guidelines follow a graphematic approach, without regularisation.
-  We keep the original punctuation and abbreviations. A detailed presentation (about
-  30 pages) of the rules we established for the transcriptions will be available on
-  SETAF project's website.
-url: https://github.com/SETAFDH/OCR-Malingre
+title: HTR-Varia-Malingre
+transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io). Our transcription guidelines follow a graphematic approach, without regularisation. We keep the original punctuation and abbreviations. A detailed presentation of the rules we established for the transcriptions is available here: https://hal.science/hal-04281804. 
+url: https://github.com/SETAFDH/HTR-Varia-Malingre
 volume:
 - count: 261474
   metric: characters
