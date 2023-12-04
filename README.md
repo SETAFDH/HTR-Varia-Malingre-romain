@@ -2,9 +2,9 @@
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
-Ce dépôt comprend les données OCR des textes utiles à étudier l'oeuvre du poète réformé M. Malingre (c.1500-1572) dans le contexte littéraire de son époque. La liste des textes avec plus de détails se trouve dans le tableau CSV du dépôt.
+Ce dépôt comprend les données OCR des textes qui ont des liens avec l'oeuvre du poète réformé M. Malingre (c.1500-1572). La liste des textes avec plus de détails se trouve dans le tableau CSV du dépôt.
 
-Les ouvrages attribués à M. Malingre imprimés par Pierre de Vingle et Jean Michel se trouvent dans les dépots suivants : https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle et https://github.com/SETAFDH/HTR-SETAF-Jean-Michel.
+Les ouvrages attribués à M. Malingre, imprimés par Pierre de Vingle et Jean Michel, se trouvent dans les dépots suivants : https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle et https://github.com/SETAFDH/HTR-SETAF-Jean-Michel.
 
 
 ## Financeur
@@ -37,7 +37,7 @@ Les calculs sont effectués à l'Université de Genève en utilisant le service 
 
 ## Citer le dépôt
 
-- Version `1.0`: Sonia Solfrini, _Données OCR des ouvrages de M. Malingre et des textes utiles à étudier son oeuvre_, version `1.0`, Genève, université de Genève, 2023, https://github.com/SETAFDH/OCR-Malingre.
+- Version `1.0`: Sonia Solfrini, _Données OCR des textes qui ont des liens avec l'oeuvre du poète réformé M. Malingre_, version `1.0`, Genève, université de Genève, 2023, https://github.com/SETAFDH/OCR-Malingre.
 
 ```bibtex
 @misc{solfrini_ocr_malingre_2023,
