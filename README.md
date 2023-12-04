@@ -1,10 +1,10 @@
-# OCR-Malingre
+# HTR-Varia-Malingre
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
-Ce dépôt comprend les données OCR des textes suivants : les ouvrages attribués au poète réformé M. Malingre (c.1500-1572) et d'autres ouvrages utiles à étudier son oeuvre. La liste des textes avec plus de détails se trouve dans le tableau CSV du dépôt.
+Ce dépôt comprend les données OCR des textes utiles à étudier l'oeuvre du poète réformé M. Malingre (c.1500-1572) dans le contexte littéraire de son époque. La liste des textes avec plus de détails se trouve dans le tableau CSV du dépôt.
 
-Les ouvrages attribués à M. Malingre imprimés par Pierre de Vingle et Jean Michel se trouvent également dans les dépots suivants : https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle et https://github.com/SETAFDH/HTR-SETAF-Jean-Michel.
+Les ouvrages attribués à M. Malingre imprimés par Pierre de Vingle et Jean Michel se trouvent dans les dépots suivants : https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle et https://github.com/SETAFDH/HTR-SETAF-Jean-Michel.
 
 
 ## Financeur
@@ -19,7 +19,6 @@ Ce projet est financé par le Fonds national suisse (FNS) dans le cadre du proje
 
 Les transcriptions sont [CC-BY](https://creativecommons.org/licenses/by/4.0), et les images suivent les règles de différentes bibliothèques numériques :
 - e-rara : https://www.e-rara.ch/wiki/termsOfUse?lang=en
-- Österreichische Nationalbibliothek : https://www.onb.ac.at/en/use
 
 
 ## Données
