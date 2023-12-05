@@ -106,7 +106,7 @@ characters:
   - ̇
   - j
   mode: NFD
-description: Data for Malingre research sub-project.
+description: Data for Malingre research sub-project (SETAF project).
 format: Alto-XML
 hands:
   count: '1'
@@ -117,8 +117,8 @@ license:
 - name: CC-BY 4.0
   url: https://creativecommons.org/licenses/by/4.0/
 production-software: eScriptorium + Kraken
-project-name: SETAF project and FoNDUE
-project-website: https://www.unige.ch/setaf and https://www.unige.ch/lettres/humanites-numeriques/recherche/projets-de-la-chaire/fondue
+project-name: FoNDUE
+project-website: https://www.unige.ch/lettres/humanites-numeriques/recherche/projets-de-la-chaire/fondue
 schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 script:
 - iso: Latn
