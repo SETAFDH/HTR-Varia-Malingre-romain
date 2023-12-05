@@ -1,15 +1,87 @@
-schema: https://htr-united.github.io/schema/2023-06-27/schema.json
-title: HTR-Varia-Malingre
-url: https://github.com/SETAFDH/HTR-Varia-Malingre
 authors:
-  - name: Sonia
-    surname: Solfrini
-    orcid: 0009-0009-7367-048X
-    roles:
-      - transcriber
-      - project-manager
-      - quality-control
-institutions: []
+- name: Sonia
+  orcid: 0009-0009-7367-048X
+  roles:
+  - transcriber
+  - project-manager
+  - quality-control
+  surname: Solfrini
+characters:
+  members:
+  - e
+  - n
+  - u
+  - i
+  - r
+  - t
+  - a
+  - o
+  - ſ
+  - l
+  - c
+  - s
+  - p
+  - d
+  - m
+  - ','
+  - q
+  - .
+  - y
+  - f
+  - '&'
+  - ’
+  - g
+  - h
+  - ́
+  - C
+  - v
+  - S
+  - b
+  - ':'
+  - I
+  - ̃
+  - z
+  - E
+  - ¬
+  - ̀
+  - x
+  - D
+  - P
+  - V
+  - H
+  - "'"
+  - ◊
+  - T
+  - R
+  - '1'
+  - A
+  - L
+  - '2'
+  - M
+  - N
+  - '4'
+  - '?'
+  - O
+  - F
+  - Q
+  - '6'
+  - ̈
+  - '3'
+  - X
+  - '5'
+  - '9'
+  - '0'
+  - B
+  - (
+  - )
+  - '7'
+  - '8'
+  - œ
+  - ꝰ
+  - G
+  - j
+  mode: NFD
+citation-file-link: https://github.com/SETAFDH/HTR-Varia-Malingre/blob/main/CITATION.cff
 description: >-
   OCR data for Malingre research sub-project (SETAF project), 16th-century
   French prints in Gothic and Roman characters.
@@ -30,13 +102,17 @@ hands:
   precision: exact
 license: CC-BY 4.0
 format: Alto-XML
-volume:
-  - metric: files
-    count: 500
-citation-file-link: https://github.com/SETAFDH/HTR-Varia-Malingre/blob/main/CITATION.cff
 transcription-guidelines: >-
   Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
   Our transcription guidelines follow a graphematic approach, without
   regularisation. We keep the original punctuation and abbreviations. A detailed
-  presentation of our guidelines is available on HAL
-  (https://hal.science/hal-04281804). 
+  presentation of our guidelines is available on HAL (https://hal.science/hal-04281804). 
+volume:
+- count: 24044
+  metric: characters
+- count: 30
+  metric: files
+- count: 856
+  metric: lines
+- count: 145
+  metric: regions
