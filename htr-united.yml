@@ -1,16 +1,16 @@
 authors:
 - name: Sonia
+  surname: Solfrini
   orcid: 0009-0009-7367-048X
   roles:
   - transcriber
   - project-manager
   - quality-control
-  surname: Solfrini
 - name: Simon
+  surname: Gabay
   orcid: 0000-0001-9094-4475
   roles:
   - support
-  surname: Gabay
 characters:
   members:
   - e
@@ -106,7 +106,7 @@ characters:
   - ̇
   - j
   mode: NFD
-description: Data for Malingre research sub-project (SETAF project).
+description: OCR data for Malingre research sub-project (SETAF project).
 format: Alto-XML
 hands:
   count: '1'
@@ -127,7 +127,9 @@ time:
   notAfter: '1600'
   notBefore: '1500'
 title: HTR-Varia-Malingre
-transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io). Our transcription guidelines follow a graphematic approach, without regularisation. We keep the original punctuation and abbreviations. A detailed presentation of the rules we established for the transcriptions is available here: https://hal.science/hal-04281804. 
+transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io). 
+Our transcription guidelines follow a graphematic approach, without regularisation. We keep the original punctuation and abbreviations. 
+A detailed presentation of our rules is available on HAL (https://hal.science/hal-04281804). 
 url: https://github.com/SETAFDH/HTR-Varia-Malingre
 volume:
 - count: 261474
