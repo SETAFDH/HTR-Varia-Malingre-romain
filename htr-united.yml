@@ -93,7 +93,9 @@ hands:
 institutions: []
 language:
 - fra
-license: CC-BY 4.0
+license:
+  type: CC-BY
+  version: 4.0
 production-software: eScriptorium + Kraken
 project-name: FoNDUE
 project-website: >-
