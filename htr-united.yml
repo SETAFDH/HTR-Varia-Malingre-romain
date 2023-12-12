@@ -1,12 +1,11 @@
 authors:
 - name: Sonia
+  surname: Solfrini
   orcid: 0009-0009-7367-048X
   roles:
   - transcriber
   - project-manager
   - quality-control
-  surname: Solfrini
-automatically-aligned: false
 characters:
   members:
   - e
@@ -90,12 +89,9 @@ format: Alto-XML
 hands:
   count: '1'
   precision: exact
-institutions: []
 language:
 - fra
-license:
-  type: CC-BY
-  version: 4.0
+license: CC-BY 4.0
 production-software: eScriptorium + Kraken
 project-name: FoNDUE
 project-website: >-
