@@ -25,60 +25,6 @@
                   WIDTH="1021"
                   HEIGHT="1773">
         
-        <TextBlock HPOS="719"
-                   VPOS="183"
-                   WIDTH="76"
-                   HEIGHT="62"
-                   ID="eSc_textblock_8edf41d0"
-                   TAGREFS="BT1429">
-          <Shape><Polygon POINTS="719 183 719 245 795 245 795 183"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_3d23d398"
-                    TAGREFS="LT518"
-                    BASELINE="729 223 778 226" 
-                    HPOS="728"
-                    VPOS="189"
-                    WIDTH="50"
-                    HEIGHT="50">
-            <Shape><Polygon POINTS="763 190 747 189 746 189 731 192 729 223 728 230 775 239 778 226 775 199 763 190"/></Shape>
-	    <String CONTENT="27"
-                    HPOS="728"
-                    VPOS="189"
-                    WIDTH="50"
-                    HEIGHT="50"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="272"
-                   VPOS="178"
-                   WIDTH="236"
-                   HEIGHT="72"
-                   ID="eSc_textblock_7fa278ef"
-                   TAGREFS="BT1460">
-          <Shape><Polygon POINTS="272 178 272 250 508 250 508 178"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_3a579247"
-                    TAGREFS="LT518"
-                    BASELINE="283 226 505 224" 
-                    HPOS="283"
-                    VPOS="177"
-                    WIDTH="222"
-                    HEIGHT="63">
-            <Shape><Polygon POINTS="496 189 483 181 474 181 459 181 444 181 429 180 397 186 388 178 385 178 370 178 356 178 344 177 313 195 289 195 283 203 283 226 283 233 471 240 472 240 474 240 505 231 505 224 503 196 496 189"/></Shape>
-	    <String CONTENT="Spirituelle."
-                    HPOS="283"
-                    VPOS="177"
-                    WIDTH="222"
-                    HEIGHT="63"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
         <TextBlock HPOS="48"
                    VPOS="243"
                    WIDTH="735"
@@ -475,6 +421,60 @@
                     VPOS="1462"
                     WIDTH="714"
                     HEIGHT="64"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="272"
+                   VPOS="178"
+                   WIDTH="236"
+                   HEIGHT="72"
+                   ID="eSc_textblock_7fa278ef"
+                   TAGREFS="BT1460">
+          <Shape><Polygon POINTS="272 178 272 250 508 250 508 178"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_3a579247"
+                    TAGREFS="LT520"
+                    BASELINE="283 226 505 224" 
+                    HPOS="283"
+                    VPOS="177"
+                    WIDTH="222"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="483 181 474 181 459 181 444 181 429 180 397 186 388 178 385 178 370 178 356 178 344 177 313 195 289 195 283 203 283 226 283 233 471 240 472 240 474 240 505 231 505 224 503 196 496 189"/></Shape>
+	    <String CONTENT="Spirituelle."
+                    HPOS="283"
+                    VPOS="177"
+                    WIDTH="222"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="719"
+                   VPOS="183"
+                   WIDTH="76"
+                   HEIGHT="62"
+                   ID="eSc_textblock_8edf41d0"
+                   TAGREFS="BT1429">
+          <Shape><Polygon POINTS="719 183 719 245 795 245 795 183"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_3d23d398"
+                    TAGREFS="LT518"
+                    BASELINE="729 223 778 226" 
+                    HPOS="728"
+                    VPOS="189"
+                    WIDTH="50"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="763 190 747 189 746 189 731 192 729 223 728 230 775 239 778 226 775 199 763 190"/></Shape>
+	    <String CONTENT="27"
+                    HPOS="728"
+                    VPOS="189"
+                    WIDTH="50"
+                    HEIGHT="50"></String>
           </TextLine>
 
           
