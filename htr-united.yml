@@ -9,8 +9,8 @@ authors:
 characters:
   members:
   - e
-  - n
   - u
+  - n
   - i
   - a
   - r
@@ -31,15 +31,15 @@ characters:
   - '&'
   - ’
   - g
-  - h
-  - C
   - v
-  - S
-  - b
-  - ́
+  - C
+  - h
   - ':'
-  - I
+  - b
+  - S
+  - ́
   - ̃
+  - I
   - E
   - z
   - ¬
@@ -47,42 +47,43 @@ characters:
   - D
   - ̀
   - P
-  - V
   - "'"
+  - V
+  - A
   - H
   - T
-  - A
+  - '1'
   - R
   - ◊
-  - '1'
   - L
+  - Q
   - '2'
   - M
-  - Q
-  - '3'
   - N
   - '4'
+  - '3'
   - O
   - '?'
   - ̈
   - F
-  - X
   - '6'
-  - (
+  - X
   - '5'
+  - (
   - )
-  - '9'
   - '0'
-  - B
-  - '7'
+  - '9'
   - ꝰ
+  - '7'
+  - B
   - '8'
   -  
   - ꝗ
-  - œ
   - G
+  - œ
   - j
   - Z
+  - ꝓ
   mode: NFD
 citation-file-link: https://github.com/SETAFDH/HTR-Varia-Malingre/blob/main/CITATION.cff
 description: >-
@@ -117,11 +118,11 @@ transcription-guidelines: >-
   (https://hal.science/hal-04281804). 
 url: https://github.com/SETAFDH/HTR-Varia-Malingre
 volume:
-- count: 31249
+- count: 35345
   metric: characters
-- count: 40
+- count: 46
   metric: files
-- count: 1142
+- count: 1314
   metric: lines
-- count: 195
+- count: 236
   metric: regions
