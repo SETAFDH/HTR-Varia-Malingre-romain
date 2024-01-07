@@ -2,7 +2,7 @@
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
-Ce dépôt comprend les données OCR des textes littéraires qui ont des liens avec l'oeuvre du poète réformé M. Malingre (c.1500-1572). La liste des textes avec plus de détails se trouve dans le tableau CSV du dépôt.
+Ce dépôt comprend les données OCR des textes littéraires qui ont des liens avec l'œuvre du poète réformé M. Malingre (c.1500-1572). La liste des textes avec plus de détails se trouve dans le tableau CSV du dépôt (par exemple, une colonne indique si la trascription est issue d'une typographie gothique ou romaine).
 
 Les ouvrages attribués à M. Malingre, imprimés par Pierre de Vingle et Jean Michel, se trouvent dans les dépots suivants : 
 - https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle
