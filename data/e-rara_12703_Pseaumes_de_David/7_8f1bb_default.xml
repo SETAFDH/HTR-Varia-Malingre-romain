@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>7_8f1bb_default.jpg</fileName>
+      <fileIdentifier>https://www.e-rara.ch/i3f/v20/4094144/full/full/0/default.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1440" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1441" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1442" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1443" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1444" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1445" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/><OtherTag ID="BT1446" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1447" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1448" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1449" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT524" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT525" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT526" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1912"
+          HEIGHT="3136"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1912"
+                  HEIGHT="3136">
+        
+        <TextBlock HPOS="492"
+                   VPOS="1123"
+                   WIDTH="1186"
+                   HEIGHT="389"
+                   ID="eSc_textblock_8ff5fab4"
+                   TAGREFS="BT1443">
+          <Shape><Polygon POINTS="516 1123 492 1480 1678 1512 1677 1147"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_58a35dfc"
+                    TAGREFS="LT526"
+                    BASELINE="818 1209 1389 1229" 
+                    HPOS="813"
+                    VPOS="1128"
+                    WIDTH="575"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="813 1220 1383 1251 1388 1228 1388 1160 1336 1142 1333 1142 1331 1142 1328 1142 1268 1157 1231 1139 1229 1139 1226 1139 1022 1149 1009 1149 1007 1149 965 1128 962 1128 959 1128 816 1142 816 1207"/></Shape>
+	    <String CONTENT="I. Corinth. 14."
+                    HPOS="813"
+                    VPOS="1128"
+                    WIDTH="575"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_90868997"
+                    TAGREFS="LT524"
+                    BASELINE="533 1351 1629 1379" 
+                    HPOS="530"
+                    VPOS="1267"
+                    WIDTH="1099"
+                    HEIGHT="144">
+            <Shape><Polygon POINTS="533 1306 533 1351 530 1379 640 1369 734 1387 745 1390 748 1390 755 1390 831 1372 894 1372 925 1392 925 1395 928 1395 931 1395 933 1395 936 1395 938 1395 965 1377 1020 1377 1064 1398 1067 1398 1069 1398 1072 1398 1088 1398 1315 1385 1328 1395 1328 1398 1331 1398 1333 1398 1336 1398 1506 1392 1624 1411 1629 1379 1629 1317 1396 1309 1370 1285 1367 1285 1365 1285 1362 1285 1360 1285 1357 1285 1328 1306 1231 1306 1132 1277 1129 1277 1127 1277 1035 1288 986 1275 983 1275 980 1275 978 1275 938 1293 826 1270 656 1267 653 1267 651 1267 585 1283 567 1267 564 1267 562 1267 559 1267 557 1267 554 1267 533 1306"/></Shape>
+	    <String CONTENT="Ie chanteray d’eſprit, ie chanteray"
+                    HPOS="530"
+                    VPOS="1267"
+                    WIDTH="1099"
+                    HEIGHT="144"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aff94d46"
+                    TAGREFS="LT524"
+                    BASELINE="766 1445 1417 1460" 
+                    HPOS="763"
+                    VPOS="1364"
+                    WIDTH="654"
+                    HEIGHT="138">
+            <Shape><Polygon POINTS="766 1445 763 1460 897 1479 899 1479 1020 1468 1035 1468 1038 1468 1101 1497 1103 1497 1258 1500 1260 1500 1263 1500 1305 1479 1352 1502 1354 1502 1357 1502 1360 1502 1415 1479 1417 1460 1417 1392 1216 1392 1213 1387 1203 1374 1200 1374 1200 1372 1197 1372 1195 1372 1192 1372 1111 1385 1095 1387 1090 1385 1069 1369 1067 1369 1064 1369 1061 1369 1059 1369 1007 1382 1001 1385 999 1382 988 1369 986 1369 986 1366 983 1366 980 1366 978 1366 975 1366 925 1379 876 1364 873 1364 870 1364 868 1364 865 1364 842 1379 839 1379 766 1379 766 1445"/></Shape>
+	    <String CONTENT="auſſi d’intelligence."
+                    HPOS="763"
+                    VPOS="1364"
+                    WIDTH="654"
+                    HEIGHT="138"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
