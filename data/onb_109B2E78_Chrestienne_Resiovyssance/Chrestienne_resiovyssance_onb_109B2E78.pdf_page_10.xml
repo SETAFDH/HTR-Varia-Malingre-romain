@@ -53,12 +53,12 @@
         </TextBlock>
         
         <TextBlock HPOS="94"
-                   VPOS="200"
+                   VPOS="199"
                    WIDTH="793"
-                   HEIGHT="1239"
+                   HEIGHT="1240"
                    ID="eSc_textblock_b41c82b6"
                    TAGREFS="BT1453">
-          <Shape><Polygon POINTS="94 209 112 1439 887 1434 860 200"/></Shape>
+          <Shape><Polygon POINTS="94 199 112 1439 887 1434 860 200"/></Shape>
           
           
           <TextLine ID="eSc_line_b3a467ef"
@@ -102,7 +102,7 @@
                     VPOS="549"
                     WIDTH="681"
                     HEIGHT="52">
-            <Shape><Polygon POINTS="179 597 178 601 858 601 859 593 856 549 179 552 179 597"/></Shape>
+            <Shape><Polygon POINTS="178 601 858 601 859 593 856 549 179 552 179 597"/></Shape>
 	    <String CONTENT="Ntre aultres choſes (freres &amp; ſœurs) la ſain"
                     HPOS="178"
                     VPOS="549"
