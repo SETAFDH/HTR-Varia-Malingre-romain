@@ -28,19 +28,19 @@ characters:
   - y
   - q
   - f
-  - g
   - h
+  - g
   - ’
   - b
   - '&'
   - v
   - E
   - ':'
-  - D
   - C
+  - D
   - I
-  - S
   - z
+  - S
   - ́
   - ̃
   - P
@@ -49,40 +49,40 @@ characters:
   - "'"
   - A
   - L
-  - ¬
   - M
+  - ¬
   - V
   - '1'
   - Q
-  - T
   - '2'
-  - R
+  - T
   - N
+  - R
   - O
+  - '3'
   - œ
   - H
-  - '3'
+  - '4'
   - '?'
   - '5'
-  - '4'
   - F
   - X
   - (
-  - )
   - '6'
+  - )
   - ◊
   - B
   - '7'
   - '8'
   - '9'
   - '0'
-  - ̈
   - G
+  - ̈
   - '-'
   - ̂
   - ꝰ
-  -  
   - Y
+  -  
   - ꝗ
   - ̧
   - '!'
@@ -129,11 +129,11 @@ transcription-guidelines: >-
   (https://hal.science/hal-04281804). 
 url: https://github.com/SETAFDH/HTR-Varia-Malingre
 volume:
-- count: 132953
+- count: 136882
   metric: characters
-- count: 182
+- count: 187
   metric: files
-- count: 5191
+- count: 5364
   metric: lines
-- count: 859
+- count: 912
   metric: regions
