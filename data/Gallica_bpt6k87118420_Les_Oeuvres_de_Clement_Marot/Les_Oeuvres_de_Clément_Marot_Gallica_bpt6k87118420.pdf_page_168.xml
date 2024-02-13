@@ -25,13 +25,41 @@
                   WIDTH="4267"
                   HEIGHT="5958">
         
-        <TextBlock HPOS="1262"
+        <TextBlock HPOS="1320"
+                   VPOS="1220"
+                   WIDTH="191"
+                   HEIGHT="341"
+                   ID="eSc_textblock_4c876a22"
+                   TAGREFS="BT11069">
+          <Shape><Polygon POINTS="1320 1220 1337 1561 1511 1561 1511 1220"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_a8119282"
+                    TAGREFS="LT4360"
+                    BASELINE="1350 1542 1486 1541" 
+                    HPOS="1346"
+                    VPOS="1206"
+                    WIDTH="139"
+                    HEIGHT="377">
+            <Shape><Polygon POINTS="1346 1583 1485 1583 1485 1539 1485 1206 1346 1206 1346 1539"/></Shape>
+	    <String CONTENT="I"
+                    HPOS="1346"
+                    VPOS="1206"
+                    WIDTH="139"
+                    HEIGHT="377"
+                    WC="0.983086347579956"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1292"
                    VPOS="623"
-                   WIDTH="2300"
+                   WIDTH="2270"
                    HEIGHT="4383"
                    ID="eSc_textblock_8da88c63"
                    TAGREFS="BT11071">
-          <Shape><Polygon POINTS="1262 639 1320 5006 3562 4973 3429 623"/></Shape>
+          <Shape><Polygon POINTS="1292 624 1320 5006 3562 4973 3429 623"/></Shape>
           
           
           <TextLine ID="eSc_line_f77949ad"
@@ -41,7 +69,7 @@
                     VPOS="625"
                     WIDTH="1433"
                     HEIGHT="202">
-            <Shape><Polygon POINTS="2519 632 2486 632 2452 632 2419 632 2386 628 2373 628 2343 642 2241 628 2221 628 2188 628 2155 628 2145 628 2125 648 1860 648 1780 625 1777 625 1774 625 1771 625 1718 648 1539 628 1535 628 1532 628 1476 645 1370 632 1367 632 1363 632 1360 632 1340 645 1327 662 1330 754 1337 827 1373 801 1489 820 1516 824 1519 824 1522 824 1532 820 1582 797 1641 797 1665 814 1671 820 1675 820 1678 820 1681 820 1684 820 1708 814 1771 794 1969 804 2141 814 2145 814 2211 810 2214 810 2217 810 2217 807 2231 797 2241 787 2373 791 2737 804 2740 804 2744 804 2747 804 2747 801 2750 801 2760 787 2760 731 2750 638 2535 638 2522 632 2519 632"/></Shape>
+            <Shape><Polygon POINTS="2486 632 2452 632 2419 632 2386 628 2373 628 2343 642 2241 628 2221 628 2188 628 2155 628 2145 628 2125 648 1860 648 1780 625 1777 625 1774 625 1771 625 1718 648 1539 628 1535 628 1532 628 1476 645 1370 632 1367 632 1363 632 1360 632 1340 645 1327 662 1330 754 1337 827 1373 801 1489 820 1516 824 1519 824 1522 824 1532 820 1582 797 1641 797 1665 814 1671 820 1675 820 1678 820 1681 820 1684 820 1708 814 1771 794 1969 804 2141 814 2145 814 2211 810 2214 810 2217 810 2217 807 2231 797 2241 787 2373 791 2737 804 2740 804 2744 804 2747 804 2747 801 2750 801 2760 787 2760 731 2750 638 2535 638 2522 632 2519 632"/></Shape>
 	    <String CONTENT="En seruant aura iouyssance."
                     HPOS="1327"
                     VPOS="625"
@@ -106,24 +134,6 @@
 
           
           
-          <TextLine ID="eSc_line_e178576f"
-                    TAGREFS="LT4359"
-                    BASELINE="1519 1541 2899 1529" 
-                    HPOS="1510"
-                    VPOS="1434"
-                    WIDTH="1385"
-                    HEIGHT="149">
-            <Shape><Polygon POINTS="1515 1539 1515 1583 2895 1578 2895 1524 2886 1444 1510 1434 1515 1539"/></Shape>
-	    <String CONTENT="A bonne fin uostre esperance."
-                    HPOS="1510"
-                    VPOS="1434"
-                    WIDTH="1385"
-                    HEIGHT="149"
-                    WC="0.998728912452172"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_a2883255"
                     TAGREFS="LT4359"
                     BASELINE="1337 1674 2687 1661" 
@@ -138,6 +148,24 @@
                     WIDTH="1353"
                     HEIGHT="166"
                     WC="0.979678275493475"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e178576f"
+                    TAGREFS="LT4359"
+                    BASELINE="1519 1541 2899 1529" 
+                    HPOS="1510"
+                    VPOS="1434"
+                    WIDTH="1385"
+                    HEIGHT="149">
+            <Shape><Polygon POINTS="1515 1539 1515 1583 2895 1578 2895 1524 2886 1444 1510 1434 1515 1539"/></Shape>
+	    <String CONTENT="A bonne fin uostre esperance."
+                    HPOS="1510"
+                    VPOS="1434"
+                    WIDTH="1385"
+                    HEIGHT="149"
+                    WC="0.998728912452172"></String>
           </TextLine>
 
           
@@ -521,6 +549,34 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="1345"
+                   VPOS="3238"
+                   WIDTH="158"
+                   HEIGHT="348"
+                   ID="eSc_textblock_ca1a92c1"
+                   TAGREFS="BT11069">
+          <Shape><Polygon POINTS="1345 3238 1345 3586 1503 3586 1503 3238"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d15e6993"
+                    TAGREFS="LT4360"
+                    BASELINE="1373 3545 1469 3550" 
+                    HPOS="1366"
+                    VPOS="3202"
+                    WIDTH="119"
+                    HEIGHT="382">
+            <Shape><Polygon POINTS="1366 3584 1460 3579 1465 3549 1485 3202 1405 3202 1371 3540"/></Shape>
+	    <String CONTENT="I"
+                    HPOS="1366"
+                    VPOS="3202"
+                    WIDTH="119"
+                    HEIGHT="382"
+                    WC="0.999999284744263"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
         <TextBlock HPOS="3221"
                    VPOS="4948"
                    WIDTH="714"
@@ -549,67 +605,7 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="1320"
-                   VPOS="1220"
-                   WIDTH="191"
-                   HEIGHT="341"
-                   ID="eSc_textblock_4c876a22"
-                   TAGREFS="BT11069">
-          <Shape><Polygon POINTS="1320 1220 1337 1561 1511 1561 1511 1220"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="1345"
-                   VPOS="3238"
-                   WIDTH="158"
-                   HEIGHT="348"
-                   ID="eSc_textblock_ca1a92c1"
-                   TAGREFS="BT11069">
-          <Shape><Polygon POINTS="1345 3238 1345 3586 1503 3586 1503 3238"/></Shape>
-          
-        </TextBlock>
-        
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="eSc_line_a8119282"
-                    TAGREFS="LT4360"
-                    BASELINE="1350 1542 1486 1541" 
-                    HPOS="1346"
-                    VPOS="1206"
-                    WIDTH="139"
-                    HEIGHT="377">
-            <Shape><Polygon POINTS="1346 1583 1485 1583 1485 1539 1485 1206 1346 1206 1346 1539"/></Shape>
-	    <String CONTENT="I"
-                    HPOS="1346"
-                    VPOS="1206"
-                    WIDTH="139"
-                    HEIGHT="377"
-                    WC="0.983086347579956"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_d15e6993"
-                    TAGREFS="LT4360"
-                    BASELINE="1373 3545 1469 3550" 
-                    HPOS="1366"
-                    VPOS="3202"
-                    WIDTH="119"
-                    HEIGHT="382">
-            <Shape><Polygon POINTS="1366 3584 1460 3579 1465 3549 1485 3202 1405 3202 1371 3540"/></Shape>
-	    <String CONTENT="I"
-                    HPOS="1366"
-                    VPOS="3202"
-                    WIDTH="119"
-                    HEIGHT="382"
-                    WC="0.999999284744263"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>
