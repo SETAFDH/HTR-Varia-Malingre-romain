@@ -2,7 +2,9 @@
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
-Ce dépôt comprend les données OCR (en caractères romains) des textes littéraires qui ont des liens avec l'œuvre du poète réformé M. Malingre (c.1500-1572). La liste des textes avec plus de détails se trouve dans le [tableau CSV](https://github.com/SETAFDH/HTR-Varia-Malingre-romain/blob/main/HTR-Varia-Malingre-romain_Table.csv) du dépôt.
+Ce dépôt comprend les données OCR (en caractères romains) de textes littéraires qui ont des liens avec l'œuvre du poète réformé M. Malingre (c.1500-1572). 
+
+La liste des textes avec plus de détails se trouve dans le [tableau CSV](https://github.com/SETAFDH/HTR-Varia-Malingre-romain/blob/main/HTR-Varia-Malingre-romain_Table.csv) du dépôt.
 
 Les ouvrages attribués à M. Malingre, imprimés par Pierre de Vingle et Jean Michel, se trouvent dans les dépots [HTR-SETAF-Pierre-de-Vingle](https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle) et [HTR-SETAF-Jean-Michel](https://github.com/SETAFDH/HTR-SETAF-Jean-Michel). 
 
@@ -36,16 +38,16 @@ Les calculs sont effectués à l'Université de Genève en utilisant le [service
 
 ## Citer le dépôt
 
-- Version `1.0`: Sonia Solfrini, _Données OCR et segmentation des textes littéraires qui ont des liens avec l'œuvre de M. Malingre_, version `1.0`, Genève, université de Genève, 2023, https://github.com/SETAFDH/HTR-Varia-Malingre.
+- Version `1.0`: Sonia Solfrini, _Données OCR (en caractères romains) et segmentation de textes littéraires qui ont des liens avec l'œuvre de M. Malingre_, version `1.0`, Genève, université de Genève, 2023, https://github.com/SETAFDH/HTR-Varia-Malingre-romain.
 
 ```bibtex
-@misc{solfrini_ocr_varia_malingre_2023,
+@misc{solfrini_ocr_varia_malingre_gothique_2023,
   author={Solfrini, Sonia},
-  title={Données OCR et segmentation des textes littéraires qui ont des liens avec l'œuvre de M. Malingre},
+  title={Données OCR (en caractères romains) et segmentation de textes littéraires qui ont des liens avec l'œuvre de M. Malingre},
   version={1.0},
   address={Genève},
   publisher={université de Genève},
   year={2023},
-  url={https://github.com/SETAFDH/HTR-Varia-Malingre},
+  url={https://github.com/SETAFDH/HTR-Varia-Malingre-romain},
 }
 ```
