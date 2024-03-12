@@ -1,5 +1,5 @@
 cff-version: 1.0
-title: Données OCR et segmentation des textes littéraires qui ont des liens avec l'oeuvre de M. Malingre
+title: Données OCR (en caractères romains) et segmentation de textes littéraires qui ont des liens avec l'oeuvre de M. Malingre
 type: dataset
 message: >-
   If you use this dataset, please cite it using the
@@ -9,10 +9,10 @@ authors:
     given-names: Sonia
     affiliation: University of Geneva
     orcid: 0009-0009-7367-048X
-repository-code: 'https://github.com/SETAFDH/HTR-Varia-Malingre'
-url: 'https://github.com/SETAFDH/HTR-Varia-Malingre'
+repository-code: 'https://github.com/SETAFDH/HTR-Varia-Malingre-romain'
+url: 'https://github.com/SETAFDH/HTR-Varia-Malingre-romain'
 abstract: >-
-  OCR data for Malingre research sub-project (SETAF project), 16th-century French prints in Roman characters.
+  OCR data for Malingre research sub-project of SETAF project, 16th-century French prints in Roman characters.
 keywords:
   - HTR
   - OCR
