@@ -1,9 +1,9 @@
-cff-version: 1.0
-title: Données OCR (en caractères romains) et segmentation de textes littéraires qui ont des liens avec l'oeuvre de M. Malingre
+cff-version: 1.2.0
+message: "If you use this dataset, please cite this repository as below."
+title: "Données OCR (en caractères romains) et segmentation de textes littéraires qui ont des liens avec l'oeuvre de M. Malingre"
+abstract: >-
+  OCR data for Malingre research sub-project of SETAF project, 16th-century French prints in Roman characters.
 type: dataset
-message: >-
-  If you use this dataset, please cite it using the
-  metadata from this file.
 authors:
   - family-names: Solfrini
     given-names: Sonia
@@ -11,8 +11,6 @@ authors:
     orcid: 0009-0009-7367-048X
 repository-code: 'https://github.com/SETAFDH/HTR-Varia-Malingre-romain'
 url: 'https://github.com/SETAFDH/HTR-Varia-Malingre-romain'
-abstract: >-
-  OCR data for Malingre research sub-project of SETAF project, 16th-century French prints in Roman characters.
 keywords:
   - HTR
   - OCR
@@ -20,5 +18,5 @@ keywords:
   - modern
   - prints
 license: CC-BY-4.0
-version: 1.0
+version: "1.0"
 date-released: 2023-12-05
